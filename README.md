@@ -1,2 +1,2 @@
-# tic-tac-toe
-A simple tic-tac-toe game.
+# rock-paper-scissors
+A simple rock-paper-scissors game.
